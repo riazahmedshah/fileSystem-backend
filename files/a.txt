@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "first_name": "Beulah",
+        "last_name": "Heinsen",
+        "email": "bheinsen0@epa.gov",
+        "gender": "Female",
+        "job_title": "Chief Design Engineer"
+    },
+    {
+        "id": 2,
+        "first_name": "Vikky",
+        "last_name": "Placide",
+        "email": "vplacide1@behance.net",
+        "gender": "Female",
+        "job_title": "Recruiter"
+    },
+]

@@ -1,0 +1,78 @@
+[{
+        "id": 1,
+        "first_name": "Beulah",
+        "last_name": "Heinsen",
+        "email": "bheinsen0@epa.gov",
+        "gender": "Female",
+        "job_title": "Chief Design Engineer"
+    },
+    {
+        "id": 2,
+        "first_name": "Vikky",
+        "last_name": "Placide",
+        "email": "vplacide1@behance.net",
+        "gender": "Female",
+        "job_title": "Recruiter"
+    },
+    {
+        "id": 3,
+        "first_name": "Barnard",
+        "last_name": "O' Mahony",
+        "email": "bomahony2@alexa.com",
+        "gender": "Male",
+        "job_title": "Actuary"
+    },
+    {
+        "id": 4,
+        "first_name": "Killy",
+        "last_name": "Grogor",
+        "email": "kgrogor3@elegantthemes.com",
+        "gender": "Male",
+        "job_title": "Product Engineer"
+    },
+    {
+        "id": 5,
+        "first_name": "Lennard",
+        "last_name": "Visco",
+        "email": "lvisco4@washingtonpost.com",
+        "gender": "Male",
+        "job_title": "Research Nurse"
+    },
+    {
+        "id": 6,
+        "first_name": "Ammamaria",
+        "last_name": "Gregine",
+        "email": "agregine5@nydailynews.com",
+        "gender": "Genderqueer",
+        "job_title": "Database Administrator II"
+    },
+    {
+        "id": 7,
+        "first_name": "Keely",
+        "last_name": "Capsey",
+        "email": "kcapsey6@hubpages.com",
+        "gender": "Female",
+        "job_title": "Financial Advisor"
+    },
+    {
+        "id": 8,
+        "first_name": "Damon",
+        "last_name": "Cowwell",
+        "email": "dcowwell7@ow.ly",
+        "gender": "Male",
+        "job_title": "Research Assistant II"
+    },
+    {
+        "id": 9,
+        "first_name": "Eddi",
+        "last_name": "Fonzone",
+        "email": "efonzone8@whitehouse.gov",
+        "gender": "Female",
+        "job_title": "Internal Auditor"
+    },
+    {
+        "id": 10,
+        "first_name": "Evered",
+        "last_name": "Stitt",
+        "email": "estitt9@phpbb.com",
+        "gender":"Male","job_title":"Speech Pathologist"}]

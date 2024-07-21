@@ -1,0 +1,18 @@
+[
+    {
+        "id": 5,
+        "first_name": "Lennard",
+        "last_name": "Visco",
+        "email": "lvisco4@washingtonpost.com",
+        "gender": "Male",
+        "job_title": "Research Nurse"
+    },
+    {
+        "id": 6,
+        "first_name": "Ammamaria",
+        "last_name": "Gregine",
+        "email": "agregine5@nydailynews.com",
+        "gender": "Genderqueer",
+        "job_title": "Database Administrator II"
+    },
+]

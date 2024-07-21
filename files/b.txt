@@ -1,0 +1,18 @@
+[
+    {
+        "id": 3,
+        "first_name": "Barnard",
+        "last_name": "O' Mahony",
+        "email": "bomahony2@alexa.com",
+        "gender": "Male",
+        "job_title": "Actuary"
+    },
+    {
+        "id": 4,
+        "first_name": "Killy",
+        "last_name": "Grogor",
+        "email": "kgrogor3@elegantthemes.com",
+        "gender": "Male",
+        "job_title": "Product Engineer"
+    },
+]
